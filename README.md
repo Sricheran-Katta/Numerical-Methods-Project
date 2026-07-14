@@ -1,6 +1,6 @@
 # Numerical Methods, Optimization, and Dynamics
 
-This repository contains implementations of various numerical methods, root-finding algorithms, kinematics optimizations, and dynamical systems simulations. This project was completed as part of a numerical methods course (UMC 202: DS 288). 
+This repository contains implementations of various numerical methods, root-finding algorithms, kinematics optimizations, and dynamical systems simulations. This project was completed as part of a numerical methods course (UMC 202). 
 
 A comprehensive discussion of the mathematical theory, derivations, and convergence analysis can be found in the **[Full_Technical_Report.pdf](./Full_Technical_Report.pdf)**.
 
@@ -18,7 +18,7 @@ Visualized and analyzed dynamical systems that exhibit chaotic behavior and frac
 
 ### 3. Robotic Arm Kinematics (`3_Robotic_Arm_Kinematics`)
 Solved the Inverse Kinematics problem for a robotic arm to trace specific paths.
-- **Methods Used**: Gradient Descent with Momentum.
+- **Methods Used**: Gradient Descent and Gradient Descent with Momentum.
 - **Objective**: Optimize joint angles to minimize the error between the end-effector and the target trajectory.
 
 ### 4. Fourier Shape Reconstruction (`4_Fourier_Shape_Reconstruction`)
